@@ -1,8 +1,13 @@
 ## What this is
 This is a workshop that demonstrates how very different concepts - physical networking and network programmability - may be brought together to create an interactive, fun and educational experience.
-From learner's perspective, the task is to fix patch cabling in an ffice LAN, but their progress is tracked and posted to a Webex space.
+From learner's perspective, the task is to fix patch cabling in an office LAN, but their progress is tracked and posted to a Webex space. As an optional step, it is possible to review the code. 
 
-Recording of the webinar with workshop presentation: ***TBD***
+Recording of the webinar with workshop presentation: https://netacad.webex.com/netacad/lsr.php?RCID=0a4164671ce875b0fc54d14be96a70bc
+
+## Files
+- `Physical Networking and Network Programmability Workshop.pka` - the Packet Tracer Activity file. [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) is required to open it.
+- `*.png` - image files that go along with the PKA
+- `code.py` - the python code that is also enclosed in the PKA (PC-A - Programming tab)
 
 ## How to replicate
 
