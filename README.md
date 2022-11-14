@@ -1,6 +1,10 @@
-##What this is
+## What this is
+This is a workshop that demonstrates how very different concepts - physical networking and network programmability - may be brought together to create an interactive, fun and educational experience.
+From learner's perspective, the task is to fix patch cabling in an ffice LAN, but their progress is tracked and posted to a Webex space.
 
-##How to replicate
+Recording of the webinar with workshop presentation: ***TBD***
+
+## How to replicate
 
 Here are the steps to make this activity work with your own Webex bot in your own Webex room:
 1. Go to http://developer.webex.com and Log in 
